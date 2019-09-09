@@ -9,7 +9,7 @@ The script controls the NativeUI Picker and provides an index number on the Patc
 
 Download the complete project. [master.zip](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/master.zip)
 
-Download the LUTS.PSD [master.zip](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/LUTS_FINO.psd)
+Download the LUTS.PSD [LUTS.psd](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/LUTS_FINO.psd)
 
 # Credits
 It contains FastColorLUT from Posit Labs.
