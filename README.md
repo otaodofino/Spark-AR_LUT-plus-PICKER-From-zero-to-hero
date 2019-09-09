@@ -3,9 +3,9 @@ A simple NativeUI Picker for applying Color LUTs using segmentation. Can be used
 
 ![Image](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/Simple_LUTPICKER.png)
 
-# Downloads
+The script controls the NativeUI Picker and provides an index number on the Patches stage which changes the CurrentFrame on a Texture Sequence. You should just replace
 
-The script controls the NativeUI Picker and provides an index number on the Patches stage which changes the CurrentFrame on a Texture Sequence.
+# Downloads
 
 Download the complete project. [master.zip](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/master.zip)
 
@@ -16,6 +16,7 @@ It contains FastColorLUT from Posit Labs.
 https://github.com/positlabs/spark-lut-patch
 Thank you, Josh, for all of them.
 
+Picker code provided by @leal.rar
 prefectly clear neutral.png provided by @ju.mooney 
 
 
