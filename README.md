@@ -1,5 +1,5 @@
 # Spark-AR_LUT-plus-PICKER-From-zero-to-hero
-A simple NativeUI Picker for applying Color LUTs using segmentation. Can be used as template with virtually infinte number of LUTs. Exported using Spark AR v69.
+An elegant NativeUI Picker for applying Color LUTs using segmentation. Can be used as template with virtually infinte number of LUTs. Exported using Spark AR v69.
 
 ![Image](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/Simple_LUTPICKER.png)
 
