@@ -23,4 +23,5 @@ https://github.com/positlabs/spark-lut-patch
 Thank you, Josh, for all of them.
 
 Picker code provided by @leal.rar
-prefectly clear neutral.png provided by @ju.mooney 
+
+Perfectly clear neutral.png provided by @ju.mooney 
