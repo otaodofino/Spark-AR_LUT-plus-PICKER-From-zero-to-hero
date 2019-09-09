@@ -11,6 +11,12 @@ Download the complete project. [master.zip](https://github.com/otaodofino/Spark-
 
 Download the LUTS.PSD [LUTS.psd](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/LUTS_FINO.psd)
 
+# Links
+
+The effect [LUT Explorer](https://www.instagram.com/a/r/?effect_id=354864722135486)
+
+EVERYTHING about Color LUTs [LUTS](https://www.lightillusion.com/luts.html)
+
 # Credits
 It contains FastColorLUT from Posit Labs.
 https://github.com/positlabs/spark-lut-patch
