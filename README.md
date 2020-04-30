@@ -13,7 +13,7 @@ Download the LUTS_TEMPLATE.PSD [LUTS_TEMPLATE.psd](https://github.com/otaodofino
 
 # Links
 
-The effect [ColorMask](https://www.instagram.com/a/r/?effect_id=354864722135486)
+The effect [ColorMask](https://instagram.com/a/r/?effect_id=459880788199310)
 
 EVERYTHING about Color LUTs [LUTS](https://www.lightillusion.com/luts.html)
 
