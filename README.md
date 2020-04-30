@@ -1,5 +1,5 @@
 # Spark-AR_LUT-plus-PICKER-From-zero-to-hero
-A simple NativeUI Picker for applying Color LUTs using segmentation. Can be used as template with virtually infinte number of LUTs. Exported using Spark AR v69.
+A simple NativeUI Picker for applying Color LUTs using segmentation. Can be used as template with virtually infinte number of LUTs. Exported using Spark AR v87.
 
 ![Image](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/Simple_LUTPICKER.png)
 
@@ -9,11 +9,11 @@ The script controls the NativeUI Picker and provides an index number on the Patc
 
 Download the complete project. [master.zip](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/master.zip)
 
-Download the LUTS.PSD [LUTS.psd](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/LUTS_FINO.psd)
+Download the LUTS_TEMPLATE.PSD [LUTS_TEMPLATE.psd](https://github.com/otaodofino/Spark-AR_LUT-plus-PICKER-From-zero-to-hero/blob/master/LUTS_TEMPLATE.psd)
 
 # Links
 
-The effect [LUT Explorer](https://www.instagram.com/a/r/?effect_id=354864722135486)
+The effect [ColorMask](https://www.instagram.com/a/r/?effect_id=354864722135486)
 
 EVERYTHING about Color LUTs [LUTS](https://www.lightillusion.com/luts.html)
 
@@ -21,7 +21,3 @@ EVERYTHING about Color LUTs [LUTS](https://www.lightillusion.com/luts.html)
 It contains FastColorLUT from Posit Labs.
 https://github.com/positlabs/spark-lut-patch
 Thank you, Josh, for all of them.
-
-Picker code provided by @leal.rar
-
-Perfectly clear neutral.png provided by @ju.mooney 
