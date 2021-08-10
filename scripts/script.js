@@ -63,5 +63,6 @@ Promise.all([
 
   picker.selectedIndex.monitor().subscribe(function (val) {
     Patches.inputs.setScalar("LUTNumber", val.newValue);
+    Diagnostics.log(results.length);
   });
 });
